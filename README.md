@@ -1,6 +1,6 @@
 # Blinkit-Quick-Commerce-Delivery-and-Sales-Analytics
 
-Tools Used: Power BI, Excel
+Tools Used: Power BI, Excel.
 Project Type: Data Visualization, Exploratory Data Analysis
 
 🔍 Project Objective
